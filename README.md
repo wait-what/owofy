@@ -8,6 +8,8 @@
 
 for all of your owo and uwu needs >w<
 
+replaces all r's and l's into w's
+
 ## Install
 ```
 npm install owofy
@@ -17,7 +19,7 @@ npm install owofy
 ```
 const owofy = require('owofy);
 
-console.log(owofy(can i please have milk?));
+console.log(owofy(can i please have some milk onii-chan?));
 ```
 Its that simple
 
