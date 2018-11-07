@@ -19,7 +19,7 @@ const owofy = require('owofy);
 
 console.log(owofy(can i please have milk?));
 ```
-* Its that simple
+Its that simple
 
 ## License/Author
 **owofy** © [Kyostra](https://github.com/kyostra), Released under the [MIT License](https://github.com/kyostra/owofy/blob/master/LICENSE).
