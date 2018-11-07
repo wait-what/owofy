@@ -1,0 +1,34 @@
+{
+  "name": "owofy",
+  "version": "0.1.0",
+  "description": "for all of your owo and uwu needs >w<",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyostra/owofy.git"
+  },
+  "keywords": [
+    "owofy",
+    "owo",
+    "uwu",
+    "weeb",
+    "anime",
+    "kyostra"
+  ],
+  "author": "kyostra @github/twitter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyostra/owofy/issues"
+  },
+  "homepage": "https://github.com/kyostra/owofy#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-kyostra": "^0.1.0"
+  },
+  "eslintConfig": {
+    "extends": "kyostra/node"
+  }
+}
