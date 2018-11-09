@@ -6,22 +6,29 @@
 
 [![npmbadge](https://nodei.co/npm/owofy.png)](https://nodei.co/npm/owofy/)
 
-for all of your owo and uwu needs >w<
+For all of your owo and uwu needs >w<
 
-replaces all r's and l's into w's
+* Replaces all "r's" and "l's" into "w's" (upper and lowercase)
+* "-ove" is changed to "-uv"
+* Adds in other letters to increase "uwu flow"
+* Replaces "!" with faces
 
 ## Install
 ```
-npm install owofy
+$ npm install owofy
 ```
 
-# Example
+# Usage
 ```
 const owofy = require('owofy);
 
-console.log(owofy(can i please have some milk onii-chan?));
+console.log(owofy(the quick catgirl notices you and jumps over the lazy otaku!));
 ```
-Its that simple
+
+# Output
+```
+$ the quick catgiww nyotices you and jumps uvw the wazy otaku >w< 
+```
 
 ## License/Author
 **owofy** © [Kyostra](https://github.com/kyostra), Released under the [MIT License](https://github.com/kyostra/owofy/blob/master/LICENSE).
