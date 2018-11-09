@@ -20,9 +20,9 @@ $ npm install owofy
 
 # Usage
 ```
-const owofy = require('owofy);
+const owofy = require('owofy');
 
-console.log(owofy(the quick catgirl notices you and jumps over the lazy otaku!));
+console.log(owofy('the quick catgirl notices you and jumps over the lazy otaku!'));
 ```
 
 # Output
