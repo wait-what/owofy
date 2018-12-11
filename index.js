@@ -1,6 +1,6 @@
 'use strict';
 
-const faces = ['(・`ω´・)', ';;w;;', 'owo', 'OwO', 'uwu', 'UwU', '>w<', '^w^', '(つ✧ω✧)つ', '(/ =ω=)/'];
+const faces = ['(*^ω^)', '(◕‿◕✿)', '(◕ᴥ◕)', 'ʕ•ᴥ•ʔ', 'ʕ￫ᴥ￩ʔ', '(*^.^*)', 'owo', '(｡♥‿♥｡)', 'uwu', '(*￣з￣)', '>w<', '^w^', '(つ✧ω✧)つ', '(/ =ω=)/'];
 
 const owoString = (string) => {
     string = string.replace(/(?:l|r)/g, 'w');
