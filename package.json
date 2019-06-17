@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/kyostra/owofy#readme",
   "devDependencies": {
-    "eslint": "^5.8.0",
-    "eslint-config-kyostra": "^0.1.0"
+    "eslint": "^5.16.0",
+    "eslint-config-kyostra": "^0.4.1"
   },
   "eslintConfig": {
     "extends": "kyostra/node"
