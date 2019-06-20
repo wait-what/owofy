@@ -1,7 +1,7 @@
 {
   "name": "owofy",
   "version": "0.3.2",
-  "description": "for all of your owo and uwu needs >w<",
+  "description": "for all of your owo and uwu needs",
   "main": "index.js",
   "scripts": {
     "test": "eslint index.js"
@@ -26,7 +26,7 @@
   "homepage": "https://github.com/kyostra/owofy#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
-    "eslint-config-kyostra": "^0.4.1"
+    "eslint-config-kyostra": "^0.4.3"
   },
   "eslintConfig": {
     "extends": "kyostra/node"
