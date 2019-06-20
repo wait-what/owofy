@@ -6,7 +6,7 @@
 
 [![npmbadge](https://nodei.co/npm/owofy.png)](https://nodei.co/npm/owofy/)
 
-For all of your owo and uwu needs >w<
+For all of your owo and uwu needs
 
 * Replaces all "r's" and "l's" into "w's" (upper and lowercase)
 * "-ove" is changed to "-uv"
